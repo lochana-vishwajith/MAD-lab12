@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">lab12</string>
+    <string name="app">The CourseApp</string>
+    <string name="un">UserName</string>
+    <string name="pw">password</string>
+    <string name="login">Login</string>
+    <string name="reg">Register</string>
+    <string name="regForm">Register Form</string>
+    <string name="teacher">Teacher</string>
+    <string name="student">Student</string>
+    <string name="Welcome">Welcome</string>
+    <string name="sub">Subject</string>
+    <string name="msg">Message</string>
+    <string name="send">Send</string>
+</resources>
